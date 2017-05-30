@@ -1,0 +1,112 @@
+Tidehunter,21.9183,64.7058,289
+Oracle,17.2761,70.6521,92
+Visage,16.6829,65.6716,67
+Io,13.3876,71.0743,121
+Ancient Apparition,11.6871,54.8672,113
+Brewmaster,10.2522,57.6271,59
+Leshrac,9.7817,58.2417,91
+Techies,8.8823,55.5555,117
+Winter Wyvern,8.7468,55.3571,112
+Riki,8.6618,47.0468,491
+Meepo,7.569,56.8493,146
+Lycan,5.7252,48.3333,120
+Batrider,5.524,55.2941,85
+Omniknight,5.432,45.238,168
+Wraith King,5.2035,43.5672,342
+Warlock,5.0743,46.8208,173
+Earth Spirit,4.4724,56.8807,109
+Necrophos,4.3226,41.7682,328
+Keeper of the Light,4.0482,50.3144,159
+Pugna,4.0193,50.0,200
+Centaur Warrunner,4.0138,43.6464,181
+Enchantress,3.92,53.9062,128
+Shadow Demon,3.5179,53.1645,79
+Dark Seer,3.5003,49.0,100
+Abaddon,3.477,42.1428,140
+Silencer,3.3311,43.5087,285
+Zeus,3.0407,40.4332,277
+Underlord,2.8915,41.8032,122
+Monkey King,2.8457,53.7549,253
+Puck,2.7916,52.9411,187
+Pudge,2.3992,44.8979,833
+Morphling,2.3985,51.4124,177
+Bristleback,2.3621,44.4874,517
+Nature's Prophet,2.2226,53.8205,301
+Razor,2.1572,48.4472,161
+Clockwerk,2.0111,43.5779,218
+Slark,1.9189,48.75,480
+Undying,1.5782,44.6428,112
+Night Stalker,1.5531,44.382,178
+Venomancer,1.4342,41.3636,220
+Drow Ranger,1.3563,43.949,314
+Axe,1.1809,42.6751,471
+Storm Spirit,1.1658,46.6275,341
+Phoenix,0.9156,45.3846,130
+Kunkka,0.8211,48.2517,286
+Disruptor,0.7609,44.7058,170
+Spirit Breaker,0.7175,39.3854,358
+Mirana,0.5845,44.2424,330
+Ogre Magi,0.2903,41.9354,372
+Invoker,0.2226,46.0704,738
+Dazzle,0.173,43.7086,151
+Sniper,0.0262,43.0044,679
+Witch Doctor,-0.121,43.5233,193
+Shadow Fiend,-0.4498,43.3593,512
+Rubick,-0.6131,47.3469,245
+Tusk,-0.6584,50.4273,117
+Jakiro,-0.6616,39.267,191
+Weaver,-0.7345,42.9022,317
+Ember Spirit,-0.761,45.3333,300
+Spectre,-0.7933,37.4074,270
+Bounty Hunter,-0.8456,44.178,292
+Slardar,-0.8952,42.3188,345
+Enigma,-0.9123,41.4507,193
+Juggernaut,-0.9143,43.8532,545
+Dragon Knight,-0.9693,41.25,160
+Lich,-1.0389,38.3333,180
+Lifestealer,-1.188,44.9438,267
+Nyx Assassin,-1.3537,42.4124,257
+Elder Titan,-1.5164,41.3333,75
+Templar Assassin,-1.5641,45.4918,244
+Windranger,-1.6972,45.2926,393
+Troll Warlord,-1.7646,39.1521,401
+Anti-Mage,-1.7901,43.8818,474
+Tiny,-1.9189,46.5,200
+Phantom Assassin,-2.3378,37.8116,722
+Lion,-2.4018,44.4117,340
+Skywrath Mage,-2.4855,42.4242,165
+Sven,-2.6783,36.6583,401
+Timbersaw,-2.7815,44.1379,290
+Vengeful Spirit,-2.8423,38.4955,226
+Faceless Void,-2.9633,40.2255,266
+Legion Commander,-3.0198,42.7083,672
+Ursa,-3.0543,37.6582,316
+Treant Protector,-3.2792,39.5939,197
+Outworld Devourer,-3.3721,41.2322,211
+Bloodseeker,-3.4161,38.3333,420
+Queen of Pain,-3.5045,45.4545,220
+Tinker,-3.7413,43.2225,391
+Crystal Maiden,-4.063,35.7913,556
+Phantom Lancer,-4.2257,40.9756,205
+Chaos Knight,-4.4133,36.9565,184
+Clinkz,-4.5005,40.6143,293
+Earthshaker,-4.575,38.3419,386
+Lina,-4.6645,42.1621,370
+Shadow Shaman,-4.8925,35.8649,237
+Gyrocopter,-5.0178,42.0168,119
+Luna,-5.0301,36.1596,401
+Death Prophet,-5.3517,40.31,129
+Viper,-5.6096,36.8627,255
+Magnus,-5.746,42.6229,244
+Doom,-5.7545,43.8461,130
+Broodmother,-6.277,47.7272,88
+Sand King,-6.3757,38.5767,267
+Huskar,-6.6672,39.7435,234
+Medusa,-7.515,40.0,165
+Terrorblade,-7.7706,37.1428,175
+Bane,-8.094,40.625,128
+Lone Druid,-8.2265,44.7619,105
+Alchemist,-8.6499,41.8803,234
+Arc Warden,-8.6527,41.9753,81
+Beastmaster,-10.4,36.3636,88
+Naga Siren,-11.9371,38.961,77
