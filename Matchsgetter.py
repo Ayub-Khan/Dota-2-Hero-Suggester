@@ -1,6 +1,7 @@
 import scrapy
 import os
 
+
 class MatchGetter(scrapy.Spider):
     name = 'match_getter'
     teams = {}

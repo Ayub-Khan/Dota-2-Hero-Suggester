@@ -25,7 +25,7 @@ def load_hero_data_into_suggestions(hero_name, hero_stats):
 def hero_suggester(stats):
     sorted_stats = sorted(stats, key=lambda x: x[1], reverse=True)
     for hero in sorted_stats:
-        if hero[1] >= 0 and True if all(float(x) >= float(50) for x in hero[2]) else False :
+        if hero[1] >= 0 and True if all(float(x) >= float(50) for x in hero[2]) else False:
             print hero
         elif all(float(x) >= float(50) for x in hero[2]):
             print hero
@@ -34,7 +34,6 @@ def hero_suggester(stats):
 def get_heroes():
     heroes = []
     with open('heros.txt', 'r') as f:
-        i = 1
         for line in f:
             heroes.append(line.strip())
         return heroes
@@ -136,5 +135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

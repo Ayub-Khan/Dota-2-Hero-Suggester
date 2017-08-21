@@ -9,7 +9,7 @@ class MatchupsGetter(scrapy.Spider):
         with open('heros.txt', 'r') as f:
             for line in f:
                 line = line.strip().lower().replace(" ", "-").replace("'", "")
-                yield scrapy.Request(u'https://www.dotabuff.com/heroes/' + line + '/matchups?date=patch_7.06e',
+                yield scrapy.Request(u'https://www.dotabuff.com/heroes/' + line + '/matchups?date=patch_7.06f',
                                      self.parse)
 
     def parse(self, response):
