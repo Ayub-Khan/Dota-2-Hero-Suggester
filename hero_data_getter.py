@@ -27,6 +27,6 @@ class HeroDataGetterOne(scrapy.Spider):
         attack_type = data[0]
         roles = ""
         for item in data[1:]:
-            roles += '-' + item.strip()
-        file.write(name + '-' + hero_type + '-' + attack_type + roles + '-' + lane_details + '\n')
+            roles += '|' + item.strip()
+        file.write(name + '|' + hero_type + '|' + attack_type + roles + '|' + lane_details + '\n')
         file.close()
